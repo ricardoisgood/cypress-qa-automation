@@ -75,7 +75,7 @@ git clone https://github.com/ricardoisgood/cypress-qa-automation
 npm install
 ```
 
-It is recommended to use Node.js LTS.
+It is recommended to use Node.js LTS - version 22.19.00.
 Tests can be executed in Linux/macOS shells or PowerShell (Windows).
 
 ---
