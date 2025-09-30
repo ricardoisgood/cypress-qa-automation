@@ -226,4 +226,4 @@ See the LICENSE file for details.
 ## **12. Author**
 
 **Ricardo Cardoso** — [LinkedIn](https://www.linkedin.com/in/ricardoisgood)  
-QA Engineer — Powering North American startups to deliver impactful products through high-standard QA practices.
+QA Engineer — Powering technology companies to deliver impactful products through high-standard QA practices.
