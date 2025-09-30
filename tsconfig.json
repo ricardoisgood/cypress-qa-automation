@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": [
+      "ES2019",
+      "DOM"
+    ],
+    "types": [
+      "cypress"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "noEmit": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": { "@/*": ["*"] },
+    "types": ["cypress", "node", "@badeball/cypress-cucumber-preprocessor"]
+
+  },
+  "include": [
+    "cypress",
+    "cypress/**/*.ts",
+    "cypress.config.ts"
+  ]
+}
