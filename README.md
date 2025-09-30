@@ -67,7 +67,7 @@ Clone the repository and install dependencies.
 
 **Clone the repository**
 ```
-git clone (https://github.com/ricardoisgood/cypress-qa-automation)
+git clone https://github.com/ricardoisgood/cypress-qa-automation
 ```
 
 **Install dependencies**
